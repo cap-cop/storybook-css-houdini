@@ -15,6 +15,7 @@ section h2 {
   margin: 0 0 4px;
   display: inline-block;
   vertical-align: top;
+  padding-bottom: 10px;
   background-image: paint(extra-superUnderline);
   --extra-underlineColor: var(--h2-underline-color);
   --extra-underlineNumber: var(--h2-underline-number);
